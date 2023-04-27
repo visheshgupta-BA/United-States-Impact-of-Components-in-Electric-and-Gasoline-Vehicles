@@ -1,0 +1,141 @@
+index,Components,USD/unit,Year,Value
+0,Electric motor,USD/unit,2010,139.0
+1,EV transmission,USD/unit,2010,354.0
+2,EV controller,USD/unit,2010,190.0
+3,Regenerative braking,USD/unit,2010,304.0
+4,On-board charger,USD/unit,2010,443.0
+5,Hydrogen storage,USD/unit,2010,3.195
+6, - low cost scenario,USD/unit,2010,3.195
+7,Electric motor,USD/kW,2010,27.0
+8,Hydrogen fuel cell,USD/kW,2010,357.0
+9,Li-ion battery,USD/kWh,2010,1.471
+10,Electric motor,USD/unit,2011,139.0
+11,EV transmission,USD/unit,2011,354.0
+12,EV controller,USD/unit,2011,190.0
+13,Regenerative braking,USD/unit,2011,304.0
+14,On-board charger,USD/unit,2011,443.0
+15,Hydrogen storage,USD/unit,2011,3.195
+16, - low cost scenario,USD/unit,2011,3.195
+17,Electric motor,USD/kW,2011,27.0
+18,Hydrogen fuel cell,USD/kW,2011,334.0
+19,Li-ion battery,USD/kWh,2011,1.282
+20,Electric motor,USD/unit,2012,139.0
+21,EV transmission,USD/unit,2012,354.0
+22,EV controller,USD/unit,2012,190.0
+23,Regenerative braking,USD/unit,2012,304.0
+24,On-board charger,USD/unit,2012,443.0
+25,Hydrogen storage,USD/unit,2012,3.195
+26, - low cost scenario,USD/unit,2012,3.195
+27,Electric motor,USD/kW,2012,27.0
+28,Hydrogen fuel cell,USD/kW,2012,312.0
+29,Li-ion battery,USD/kWh,2012,1.092
+30,Electric motor,USD/unit,2013,139.0
+31,EV transmission,USD/unit,2013,354.0
+32,EV controller,USD/unit,2013,190.0
+33,Regenerative braking,USD/unit,2013,304.0
+34,On-board charger,USD/unit,2013,443.0
+35,Hydrogen storage,USD/unit,2013,3.195
+36, - low cost scenario,USD/unit,2013,3.195
+37,Electric motor,USD/kW,2013,27.0
+38,Hydrogen fuel cell,USD/kW,2013,290.0
+39,Li-ion battery,USD/kWh,2013,903.0
+40,Electric motor,USD/unit,2014,139.0
+41,EV transmission,USD/unit,2014,354.0
+42,EV controller,USD/unit,2014,190.0
+43,Regenerative braking,USD/unit,2014,304.0
+44,On-board charger,USD/unit,2014,443.0
+45,Hydrogen storage,USD/unit,2014,3.195
+46, - low cost scenario,USD/unit,2014,3.195
+47,Electric motor,USD/kW,2014,27.0
+48,Hydrogen fuel cell,USD/kW,2014,267.0
+49,Li-ion battery,USD/kWh,2014,714.0
+50,Electric motor,USD/unit,2015,139.0
+51,EV transmission,USD/unit,2015,354.0
+52,EV controller,USD/unit,2015,190.0
+53,Regenerative braking,USD/unit,2015,304.0
+54,On-board charger,USD/unit,2015,443.0
+55,Hydrogen storage,USD/unit,2015,3.186
+56, - low cost scenario,USD/unit,2015,3.186
+57,Electric motor,USD/kW,2015,27.0
+58,Hydrogen fuel cell,USD/kW,2015,245.0
+59,Li-ion battery,USD/kWh,2015,525.0
+60,Electric motor,USD/unit,2016,134.0
+61,EV transmission,USD/unit,2016,339.0
+62,EV controller,USD/unit,2016,183.0
+63,Regenerative braking,USD/unit,2016,298.0
+64,On-board charger,USD/unit,2016,443.0
+65,Hydrogen storage,USD/unit,2016,3.134
+66, - low cost scenario,USD/unit,2016,3.134
+67,Electric motor,USD/kW,2016,25.0
+68,Hydrogen fuel cell,USD/kW,2016,214.0
+69,Li-ion battery,USD/kWh,2016,463.0
+70,Electric motor,USD/unit,2017,128.0
+71,EV transmission,USD/unit,2017,324.0
+72,EV controller,USD/unit,2017,175.0
+73,Regenerative braking,USD/unit,2017,292.0
+74,On-board charger,USD/unit,2017,443.0
+75,Hydrogen storage,USD/unit,2017,3.083
+76, - low cost scenario,USD/unit,2017,3.083
+77,Electric motor,USD/kW,2017,24.0
+78,Hydrogen fuel cell,USD/kW,2017,183.0
+79,Li-ion battery,USD/kWh,2017,401.0
+80,Electric motor,USD/unit,2018,123.0
+81,EV transmission,USD/unit,2018,308.0
+82,EV controller,USD/unit,2018,167.0
+83,Regenerative braking,USD/unit,2018,286.0
+84,On-board charger,USD/unit,2018,443.0
+85,Hydrogen storage,USD/unit,2018,3.031
+86, - low cost scenario,USD/unit,2018,3.031
+87,Electric motor,USD/kW,2018,23.0
+88,Hydrogen fuel cell,USD/kW,2018,152.0
+89,Li-ion battery,USD/kWh,2018,339.0
+90,Electric motor,USD/unit,2019,117.0
+91,EV transmission,USD/unit,2019,293.0
+92,EV controller,USD/unit,2019,160.0
+93,Regenerative braking,USD/unit,2019,280.0
+94,On-board charger,USD/unit,2019,443.0
+95,Hydrogen storage,USD/unit,2019,2.98
+96, - low cost scenario,USD/unit,2019,2.98
+97,Electric motor,USD/kW,2019,22.0
+98,Hydrogen fuel cell,USD/kW,2019,121.0
+99,Li-ion battery,USD/kWh,2019,278.0
+100,Electric motor,USD/unit,2020,111.0
+101,EV transmission,USD/unit,2020,278.0
+102,EV controller,USD/unit,2020,152.0
+103,Regenerative braking,USD/unit,2020,273.0
+104,On-board charger,USD/unit,2020,443.0
+105,Hydrogen storage,USD/unit,2020,2.939
+106, - low cost scenario,USD/unit,2020,2.939
+107,Electric motor,USD/kW,2020,21.0
+108,Hydrogen fuel cell,USD/kW,2020,90.0
+109,Li-ion battery,USD/kWh,2020,216.0
+110,Electric motor,USD/unit,2021,109.0
+111,EV transmission,USD/unit,2021,272.0
+112,EV controller,USD/unit,2021,152.0
+113,Regenerative braking,USD/unit,2021,271.0
+114,On-board charger,USD/unit,2021,434.0
+115,Hydrogen storage,USD/unit,2021,2.851
+116, - low cost scenario,USD/unit,2021,2.851
+117,Electric motor,USD/kW,2021,21.0
+118,Hydrogen fuel cell,USD/kW,2021,87.0
+119,Li-ion battery,USD/kWh,2021,203.0
+120,Electric motor,USD/unit,2022,107.0
+121,EV transmission,USD/unit,2022,266.0
+122,EV controller,USD/unit,2022,152.0
+123,Regenerative braking,USD/unit,2022,268.0
+124,On-board charger,USD/unit,2022,425.0
+125,Hydrogen storage,USD/unit,2022,2.762
+126, - low cost scenario,USD/unit,2022,2.762
+127,Electric motor,USD/kW,2022,20.0
+128,Hydrogen fuel cell,USD/kW,2022,84.0
+129,Li-ion battery,USD/kWh,2022,189.0
+130,Electric motor,USD/unit,2023,105.0
+131,EV transmission,USD/unit,2023,259.0
+132,EV controller,USD/unit,2023,152.0
+133,Regenerative braking,USD/unit,2023,265.0
+134,On-board charger,USD/unit,2023,417.0
+135,Hydrogen storage,USD/unit,2023,2.674
+136, - low cost scenario,USD/unit,2023,2.674
+137,Electric motor,USD/kW,2023,20.0
+138,Hydrogen fuel cell,USD/kW,2023,80.0
+139,Li-ion battery,USD/kWh,2023,176.0
